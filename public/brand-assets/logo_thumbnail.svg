@@ -1,25 +1,14 @@
-<svg
-  width="16"
-  height="16"
-  viewBox="0 0 16 16"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <g clip-path="url(#woot-logo-clip-2342424e23u32098)">
-    <path
-      d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z"
-      fill="#2781F6"
-    />
-    <path
-      d="M11.4172 11.4172H7.70831C5.66383 11.4172 4 9.75328 4 7.70828C4 5.66394 5.66383 4 7.70835 4C9.75339 4 11.4172 5.66394 11.4172 7.70828V11.4172Z"
-      fill="white"
-      stroke="white"
-      stroke-width="0.1875"
-    />
-  </g>
-  <defs>
-    <clipPath id="woot-logo-clip-2342424e23u32098">
-      <rect width="16" height="16" fill="white" />
-    </clipPath>
-  </defs>
+<svg width="464" height="464" viewBox="0 0 464 464" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="464" height="464" rx="232" fill="url(#paint0_linear_65_2)"/>
+<path d="M152.589 296.149H183.089C188.689 326.149 214.422 334.315 226.589 334.649C262.189 334.649 273.756 308.982 275.089 296.149H304.589C312.189 294.949 312.422 301.315 311.589 304.649C304.789 363.049 252.089 376.315 226.589 375.649C164.589 372.849 147.089 327.149 146.089 304.649C145.289 298.249 150.089 296.315 152.589 296.149Z" fill="#CDFF00" fill-opacity="0.85"/>
+<circle cx="229" cy="169" r="66" stroke="#CDFF00" stroke-width="46"/>
+<path d="M302.5 123.5H232V80H337V91.5C336.2 115.9 313.667 123 302.5 123.5Z" fill="#CDFF00"/>
+<path d="M322.214 282H292V258H337V264.345C336.657 277.807 327 281.724 322.214 282Z" fill="#CDFF00"/>
+<path d="M134.786 282H165V258H120V264.345C120.343 277.807 130 281.724 134.786 282Z" fill="#CDFF00" fill-opacity="0.85"/>
+<defs>
+<linearGradient id="paint0_linear_65_2" x1="232" y1="0" x2="232" y2="464" gradientUnits="userSpaceOnUse">
+<stop stop-color="#282826"/>
+<stop offset="1"/>
+</linearGradient>
+</defs>
 </svg>
